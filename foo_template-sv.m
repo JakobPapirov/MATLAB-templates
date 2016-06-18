@@ -2,8 +2,6 @@
 %
 function [] = foo() % Om funktionen inte behöver ge ut några outputs räcker det med att skriva "function NAMNPÅFUNKTIONEN"
 
-
-
 end
 
 %% Kommentarer
